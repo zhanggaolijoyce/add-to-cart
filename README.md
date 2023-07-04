@@ -1,21 +1,5 @@
-# coc19498d9e1f60048677058c
+I finish this project under Scrimba(https://scrimba.com/playlist/pZZxqsB)
 
-Quick start:
+It is a mobile app that can be applied to both Android and iPhone. It can be used as a memo, for example, you can use it to remember your shopping list before going to the mall. Write down the item and then click the "Add to cart" button, the item will be shown below. All the items will be displayed in order. When click one of the items, it will disappear, which means you have bought it. 
 
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+It is a comprehensive and functional project which contains HTML, css and javascript. I learned a lot from it. I learned to import external functions into a js file and how to design a user-friendly website. More importantly, this is the first time I learned how to use Firebase to store, import and export  data. In this project, I mainly used the initializeApp, getDatabase, ref and onValue funcitons to deal with the database.
